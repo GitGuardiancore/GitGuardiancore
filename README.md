@@ -1,4 +1,4 @@
-<p align="center">
+a<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:FFA500,100:FF0000&height=180&section=header&text=GitGuardiancore%20🔐&fontSize=48&fontAlignY=50&fontColor=fff" width="100%" />
 </p>
 
